@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar Behera</h1>
-<h3 align="center">A passionate software developer from India.</h3>
+<h3 align="center">A software developer in learning phase.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshdvc&label=Profile%20views&color=0e75b6&style=flat" alt="santoshdvc" /> </p>
 
-- 📫 How to reach me **santoshdvc@gmail.com**
+- 📫 Reach me **santoshdvc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
