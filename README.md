@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar Behera</h1>
 <h3 align="center">A software developer in learning phase.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshdvc&label=Profile%20views&color=0e75b6&style=flat" alt="santoshdvc" /> </p>
+#### Education
+> B.Tech in Computer Science @ IIIT Pune
 
-- 📫 Reach me **santoshdvc@gmail.com**
+> HSC and SSC @ CBSE
+
+> 📫 Reach me **santoshdvc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
