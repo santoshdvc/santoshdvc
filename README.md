@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar Behera</h1>
-<h2 align="center">A software developer in learning phase. </h3>
+<h2 align="center">Programmer | Developer | Learner </h3>
 
 ## Education
 > B.Tech in Computer Science @ IIIT Pune
