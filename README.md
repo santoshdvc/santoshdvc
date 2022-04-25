@@ -2,7 +2,7 @@
 <h2 align="center">Programmer | Developer | Learner </h3>
 
 ## Experience
-> Software Engineer at Digit General Insurance Pvt Ltd
+> Software Engineer (Data Science) at Digit General Insurance Pvt Ltd
 
 ## Education
 > B.Tech in Computer Science @ IIIT Pune
