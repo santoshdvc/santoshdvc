@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar Behera</h1>
 <h2 align="center">Programmer | Developer | Learner </h3>
 
+## Experience
+> Software Engineer at Digit General Insurance Pvt Ltd
+
 ## Education
 > B.Tech in Computer Science @ IIIT Pune
 
