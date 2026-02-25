@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar Behera</h1>
 <h2 align="center">Programmer | Developer | Learner </h3>
-
+## About Me
+> Software Engineer (Data Science) experienced in building scalable automation and backend systems. Skilled in Python (Pandas, Django, Selenium), REST APIs, SQL, and Docker deployments. 
+> Strong background in process optimization, system integration, and high-volume data processing. Comfortable across web technologies (HTML, CSS, React) and mobile development, focused on writing clean, efficient, and reliable code.
 ## Experience
 > Software Engineer (Data Science) at Digit General Insurance Pvt Ltd
 
